@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mp.weixin.qq.com/s/PpeblHk6Ml4w8iNrrw8UAA"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-read-brightgreen" alt="在线阅读"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E6%83%85%E7%BC%98-orange" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/AI%E7%BB%B4%E5%85%8B%E5%85%B9-%E5%85%AC%E4%BC%97%E5%8F%B7?label=%E5%85%AC%E4%BC%97%E5%8F%B7" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-yellowgreen" alt="PDF"></a>
   <a href="#联系我"><img src="https://img.shields.io/badge/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-weChat-orange" alt="联系我"></a>
 </p>
@@ -332,8 +332,7 @@ fd1/*
 
 ### 公众号
 
-如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**代码情缘**”。
+如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**AI维克兹**”。
 
-**《C语言保姆级教程》:**《**Go语言保姆级教程**》《**Git版本控制**》PDF 版本在[微信公众号](#公众号)后台回复 **"书籍"** 即可免费领取！
+<img width="1710" height="624" alt="我的公众号" src="https://github.com/user-attachments/assets/ef41e5ca-c986-47e4-91d4-a9bb9733d6af" />
 
-![我的公众号](https://cdn.nlark.com/yuque/0/2021/jpeg/12653647/1635665327539-b1156e20-fe8c-430b-9c24-1f3b834942ac.jpeg)
